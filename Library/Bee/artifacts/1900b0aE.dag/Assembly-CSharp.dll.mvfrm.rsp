@@ -9,6 +9,8 @@ Library\Bee\artifacts\mvdfrm\Unity.Mathematics.Editor.ref.dll_9A20CFD48BC11F43.m
 Library\Bee\artifacts\mvdfrm\Unity.Mathematics.ref.dll_E8EFDB1B8D5C174E.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Performance.Profile-Analyzer.Editor.ref.dll_65A192712782EB2B.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.PlasticSCM.Editor.ref.dll_257AEB342BE77856.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Postprocessing.Editor.ref.dll_1C9CD17610FFA3F0.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Postprocessing.Runtime.ref.dll_3152B6A9836FBF3B.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll_5436F99F8BDCED8B.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.RenderPipelines.Core.Editor.ref.dll_46EB9B6930B27991.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.RenderPipelines.Core.Runtime.ref.dll_CE6A42C97D96EB0A.mvfrm
@@ -150,7 +152,6 @@ Library\Bee\artifacts\mvdfrm\UnityEngine.XRModule.dll_F0C81BE0CB0186D9.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Android.Gradle.dll_FD6630CFD088C9CB.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Android.GradleProject.dll_63A1E91F52DD0B9A.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Android.Types.dll_E0B58A298A3005A1.mvfrm
-Library\Bee\artifacts\mvdfrm\UnityEditor.iOS.Extensions.Xcode.dll_9E023152591DB583.mvfrm
-Library\Bee\artifacts\mvdfrm\UnityEditor.iOS.Extensions.Common.dll_AC549EB9C3EEE4B3.mvfrm
-Library\Bee\artifacts\mvdfrm\UnityEditor.iOS.Extensions.Xcode.dll_5E51516F57F78449.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.iOS.Extensions.Common.dll_5106D45068228D48.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.iOS.Extensions.Xcode.dll_D0D0451A7CE0BE84.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Antlr3.Runtime.dll_FBC62C826EB2B4B0.mvfrm
